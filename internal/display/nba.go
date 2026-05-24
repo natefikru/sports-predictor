@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/charmbracelet/lipgloss"
-	"github.com/natefikru/sports-predicter/internal/kalshi"
+	"github.com/natefikru/sports-predictor/internal/kalshi"
 )
 
 var (

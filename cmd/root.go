@@ -9,7 +9,7 @@ import (
 
 var rootCmd = &cobra.Command{
 	Use:     "sp",
-	Short:   "sports-predicter — Kalshi sports market viewer",
+	Short:   "sports-predictor — Kalshi sports market viewer",
 	Version: "0.1.0",
 }
 

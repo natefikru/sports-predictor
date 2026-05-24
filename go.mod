@@ -1,4 +1,4 @@
-module github.com/natefikru/sports-predicter
+module github.com/natefikru/sports-predictor
 
 go 1.24.2
 

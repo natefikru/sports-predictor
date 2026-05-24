@@ -7,8 +7,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/natefikru/sports-predicter/internal/display"
-	"github.com/natefikru/sports-predicter/internal/kalshi"
+	"github.com/natefikru/sports-predictor/internal/display"
+	"github.com/natefikru/sports-predictor/internal/kalshi"
 )
 
 var gameFlag string
